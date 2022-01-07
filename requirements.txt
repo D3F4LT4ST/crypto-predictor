@@ -1,0 +1,13 @@
+jupyter
+pandas
+numpy
+matplotlib
+requests
+ta
+python-dotenv
+python-dateutil
+scipy
+sklearn
+statsmodels
+lightgbm
+ngboost
